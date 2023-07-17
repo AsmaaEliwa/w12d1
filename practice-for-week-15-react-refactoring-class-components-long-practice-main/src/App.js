@@ -5,12 +5,11 @@ import Weather from './components/Weather';
 import Autocomplete from './components/Autocomplete';
 
 const names = [
-  'Asmaa',
+  'Abba',
   'Barbara',
   'Barney',
   'Jeff',
   'Jenny',
-  'Max',
   'Sally',
   'Sarah',
   'Xander'
